@@ -1,0 +1,7 @@
+{
+    "name": "API文档",
+    "version": "0.1.0",
+    "description": "一个标准的API文档",
+    "title": "Custom apiDoc browser title",
+    "url" : "http://127.0.0.1:3000"
+  }
